@@ -13,6 +13,7 @@
 		77BAE45524D6F1510017BBE8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77BAE45424D6F1510017BBE8 /* Assets.xcassets */; };
 		77BAE45824D6F1510017BBE8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 77BAE45724D6F1510017BBE8 /* Preview Assets.xcassets */; };
 		77BAE45B24D6F1510017BBE8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 77BAE45924D6F1510017BBE8 /* LaunchScreen.storyboard */; };
+		77BAE46324D6F36F0017BBE8 /* ColorUISlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77BAE46224D6F36F0017BBE8 /* ColorUISlider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		77BAE45724D6F1510017BBE8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		77BAE45A24D6F1510017BBE8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		77BAE45C24D6F1510017BBE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		77BAE46224D6F36F0017BBE8 /* ColorUISlider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorUISlider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				77BAE44E24D6F1500017BBE8 /* AppDelegate.swift */,
+				77BAE46224D6F36F0017BBE8 /* ColorUISlider.swift */,
 				77BAE45024D6F1500017BBE8 /* SceneDelegate.swift */,
 				77BAE45224D6F1500017BBE8 /* ContentView.swift */,
 				77BAE45424D6F1510017BBE8 /* Assets.xcassets */,
@@ -148,6 +151,7 @@
 			files = (
 				77BAE44F24D6F1500017BBE8 /* AppDelegate.swift in Sources */,
 				77BAE45124D6F1500017BBE8 /* SceneDelegate.swift in Sources */,
+				77BAE46324D6F36F0017BBE8 /* ColorUISlider.swift in Sources */,
 				77BAE45324D6F1500017BBE8 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
